@@ -10,7 +10,7 @@ body{
     width: 100%;
     position: sticky;
     top: 0;
-    background: transparent;
+    background: black;
     box-shadow: 0 10px 20px rgba(136, 10, 10, 0.783);
     backdrop-filter: blur(10px);
     z-index: 999;
