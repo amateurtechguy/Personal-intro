@@ -51,7 +51,7 @@ body{
 .navbar-container .navbar-menu li a.active{
     color: rgb(0, 0, 0);
     background-color: rgb(120, 0, 0);
-    border: 2px solid #fff;
+    border: 2px solid #ff0000;
 }
 .navbar-toggle{
     display: none;
@@ -89,6 +89,26 @@ footer p{
 }
 .js{
     color: yellow;
+}
+.red{
+    color: red;
+}
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    margin: 50px;
+    padding: 50px;
+}
+main h1{
+    font-size: 50px;
+}
+main h3{
+    max-width: 1000px;
+    font-size: 30px;
+    margin: 0 auto;
 }
 @media(max-width: 880px){
     .navbar{
