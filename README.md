@@ -19,6 +19,29 @@ The home page, where you can start browsing!
 The about page, it has all the essentials you need to learn about me(if you're interested)
 
 
+## >> Projects:
+
+The projects page shows off all my recent projects and lets you even check them out!
+
+<img width="930" height="427" alt="image" src="https://github.com/user-attachments/assets/61e3f9dd-5123-45ff-8dd3-f120640f3f65" />
+
+## >> Hobbies:
+
+This page tell you more about who I am and what I like!
+
+<img width="930" height="423" alt="image" src="https://github.com/user-attachments/assets/a016e210-88f0-4926-80e6-111199c1c4c7" />
+
+
+## >> Contact:
+
+All the different ways you can get in contact with me:D
+
+
+## >> Extras:
+
+Honestly I just added this page cause I didn't know if the other pages were enough lol
+
+
 ## Built with:
 
 - HTML
