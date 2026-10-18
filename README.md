@@ -43,7 +43,9 @@ All the different ways you can get in contact with me:D
 
 ## >> Extras:
 
-Honestly I just added this page cause I didn't know if the other pages were enough lol
+A thank you page for anyone who gave my website a chance, it rarely happens and when it does i get so happy:)
+
+<img width="936" height="416" alt="image" src="https://github.com/user-attachments/assets/326513f0-5177-4b17-9c89-f603a9085d1a" />
 
 
 ## Built with:
