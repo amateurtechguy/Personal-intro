@@ -97,6 +97,14 @@ footer p{
 .red{
     color: red;
 }
+main h1{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 3rem;
+}
 @media(max-width: 880px){
     .navbar{
         backdrop-filter: none;
