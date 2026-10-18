@@ -28,7 +28,7 @@ The about page, it has all the essentials you need to learn about me(if you're i
 
 ## Credits:
 - [Navbar](https://www.youtube.com/watch?v=Og-YEeCTE7A)
-
+- [projects](https://www.youtube.com/watch?v=uTPO6fKtBvM)
 
 ---
 ## Creator:
