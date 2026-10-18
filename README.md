@@ -29,6 +29,8 @@ The projects page shows off all my recent projects and lets you even check them 
 
 This page tell you more about who I am and what I like!
 
+<img width="930" height="423" alt="image" src="https://github.com/user-attachments/assets/a016e210-88f0-4926-80e6-111199c1c4c7" />
+
 
 ## >> Contact:
 
