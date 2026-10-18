@@ -18,6 +18,8 @@ The home page, where you can start browsing!
 
 The about page, it has all the essentials you need to learn about me(if you're interested)
 
+<img width="930" height="426" alt="image" src="https://github.com/user-attachments/assets/b9504bdc-d4f1-4b6a-976a-0c443f9e584d" />
+
 
 ## >> Projects:
 
