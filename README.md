@@ -36,6 +36,8 @@ This page tell you more about who I am and what I like!
 
 All the different ways you can get in contact with me:D
 
+<img width="942" height="427" alt="image" src="https://github.com/user-attachments/assets/09c13ad2-892b-45ea-8ebc-928f013fd365" />
+
 
 ## >> Extras:
 
